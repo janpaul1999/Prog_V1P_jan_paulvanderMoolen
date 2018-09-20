@@ -1,7 +1,0 @@
-name = ' '
-for char in name:
-    print(char)
-
-word = str(input('Enter a word:'))
-for char in word:
-    print(char)
